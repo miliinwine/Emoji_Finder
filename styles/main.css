@@ -63,3 +63,12 @@
   margin-top: 13px;
   margin-bottom: 17px;
 }
+@media (max-width: 375px){
+  .input {
+    margin: 0;
+    width: 375px ;
+  }
+  .card{
+    margin: 0 auto;
+  }
+}
